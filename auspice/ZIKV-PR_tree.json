@@ -1,0 +1,1927 @@
+{
+  "aa_muts": {},
+  "attr": {
+    "clock_length": 0.001,
+    "country": "micronesia",
+    "country_confidence": {
+      "brazil": 0.07540208674674992,
+      "ecuador": 0.03824983625945547,
+      "french_polynesia": 0.2501625333607287,
+      "micronesia": 0.3730667117129979
+    },
+    "country_entropy": 1.897518643110524,
+    "date": "2002-10-03",
+    "div": 0,
+    "num_date": 2002.7562130032213,
+    "num_date_confidence": [
+      1945.0274461535168,
+      2007.4574602634682
+    ],
+    "region-in-PR": "micronesia",
+    "region-in-PR_confidence": {
+      "brazil": 0.07540208674674992,
+      "ecuador": 0.03824983625945547,
+      "french_polynesia": 0.2501625333607287,
+      "micronesia": 0.3730667117129979
+    },
+    "region-in-PR_entropy": 1.897518643110524
+  },
+  "branch_length": 0.001,
+  "children": [
+    {
+      "aa_muts": {},
+      "attr": {
+        "clock_length": 3.306579835246973e-05,
+        "country": "micronesia",
+        "country_confidence": {
+          "brazil": 0.06356204105337557,
+          "ecuador": 0.03367733406752301,
+          "french_polynesia": 0.24770261999847062,
+          "micronesia": 0.4227342442102636
+        },
+        "country_entropy": 1.7901930551818723,
+        "date": "2002-10-12",
+        "div": 3.4975265203650693e-22,
+        "num_date": 2002.7824649475897,
+        "num_date_confidence": [
+          1945.0286550903902,
+          2007.482641508444
+        ],
+        "region-in-PR": "micronesia",
+        "region-in-PR_confidence": {
+          "brazil": 0.06356204105337557,
+          "ecuador": 0.03367733406752301,
+          "french_polynesia": 0.24770261999847062,
+          "micronesia": 0.4227342442102636
+        },
+        "region-in-PR_entropy": 1.7901930551818723
+      },
+      "branch_length": 3.307e-05,
+      "children": [
+        {
+          "aa_muts": {
+            "2K": [
+              "V13I"
+            ],
+            "C": [
+              "A106T"
+            ],
+            "E": [
+              "T40A",
+              "M473V",
+              "M487T"
+            ],
+            "NS1": [
+              "E26D",
+              "V188A"
+            ],
+            "NS2A": [
+              "A156T"
+            ],
+            "NS3": [
+              "L112P",
+              "Q396L",
+              "H400N",
+              "R560K",
+              "H584Y"
+            ],
+            "NS4A": [
+              "K42E"
+            ],
+            "NS4B": [
+              "I98M",
+              "P164H",
+              "Q165R"
+            ],
+            "NS5": [
+              "V872M"
+            ],
+            "PR": [
+              "A1V",
+              "N17S"
+            ]
+          },
+          "attr": {
+            "accession": "EU545988",
+            "authors": "Lanciotti et al",
+            "clock_length": 0.005936396580440716,
+            "country": "micronesia",
+            "country_confidence": {
+              "micronesia": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2007-06-30",
+            "div": 0.01623876000730866,
+            "num_date": 2007.495550992471,
+            "num_date_confidence": [
+              2007.4240930869269,
+              2007.495550992471
+            ],
+            "raw_date": "2007-06-XX",
+            "region-in-PR": "micronesia",
+            "region-in-PR_confidence": {
+              "micronesia": 1.0
+            },
+            "region-in-PR_entropy": -1.000088900581841e-12,
+            "url": "https://www.ncbi.nlm.nih.gov/nuccore/EU545988"
+          },
+          "branch_length": 0.0059364,
+          "clade": 0,
+          "muts": [
+            "A105G",
+            "T240A",
+            "G406A",
+            "T450C",
+            "C458T",
+            "A506G",
+            "T541C",
+            "T552C",
+            "T561C",
+            "C622T",
+            "G636A",
+            "G672A",
+            "T702C",
+            "A786G",
+            "C810T",
+            "T820C",
+            "T885C",
+            "C900T",
+            "C1053T",
+            "A1078G",
+            "C1137T",
+            "A1158G",
+            "A1215G",
+            "C1488T",
+            "C1638T",
+            "C1665T",
+            "C1684T",
+            "T1974C",
+            "T2032C",
+            "C2049T",
+            "C2154T",
+            "C2250T",
+            "C2268T",
+            "A2377G",
+            "C2394T",
+            "T2420C",
+            "C2451T",
+            "G2508A",
+            "A2523G",
+            "A2550T",
+            "C2589T",
+            "G2598A",
+            "T2631G",
+            "T3035C",
+            "A3054G",
+            "T3120C",
+            "G3186A",
+            "T3237C",
+            "C3258T",
+            "G3417A",
+            "T3693C",
+            "C3723T",
+            "A3789T",
+            "A3837G",
+            "T3853C",
+            "C3858T",
+            "T3868C",
+            "T3972C",
+            "G3994A",
+            "T3999G",
+            "A4023G",
+            "T4068C",
+            "C4074T",
+            "A4089G",
+            "A4092G",
+            "T4111C",
+            "C4129T",
+            "A4137C",
+            "C4221T",
+            "C4242T",
+            "A4254G",
+            "T4260C",
+            "A4278G",
+            "G4437A",
+            "A4440G",
+            "G4464A",
+            "C4476T",
+            "G4506A",
+            "A4575G",
+            "C4578T",
+            "A4689T",
+            "T4716C",
+            "T4734C",
+            "C4833T",
+            "A4842G",
+            "T4854C",
+            "T4931C",
+            "G4971A",
+            "C4978T",
+            "T4983C",
+            "T5043C",
+            "C5049T",
+            "C5064A",
+            "C5146T",
+            "T5176C",
+            "C5352T",
+            "A5358G",
+            "C5367T",
+            "C5370T",
+            "G5412A",
+            "T5451C",
+            "T5529C",
+            "G5550C",
+            "T5574C",
+            "A5783T",
+            "C5794A",
+            "T5811C",
+            "C6039T",
+            "C6075T",
+            "T6084C",
+            "C6147T",
+            "G6275A",
+            "C6346T",
+            "G6372A",
+            "G6426A",
+            "T6456C",
+            "C6484T",
+            "A6489G",
+            "A6571G",
+            "C6601T",
+            "T6612C",
+            "A6667C",
+            "C6672T",
+            "A6681C",
+            "C6729T",
+            "G6865A",
+            "A6873G",
+            "C6885T",
+            "C6906T",
+            "G6918A",
+            "C7020T",
+            "C7032T",
+            "T7033C",
+            "T7047C",
+            "A7068G",
+            "C7140T",
+            "A7191G",
+            "C7388A",
+            "A7391G",
+            "T7551C",
+            "A7662G",
+            "T7696C",
+            "G7716A",
+            "G7800A",
+            "G7836T",
+            "C7852A",
+            "G7854A",
+            "G8076T",
+            "C8088T",
+            "C8145T",
+            "T8433C",
+            "A8499G",
+            "C8589T",
+            "G8796A",
+            "C8994T",
+            "T9000C",
+            "T9102C",
+            "A9105G",
+            "C9159T",
+            "A9249T",
+            "T9258A",
+            "T9396C",
+            "G9438A",
+            "C9486T",
+            "T9492C",
+            "A9501G",
+            "A9510G",
+            "G9660A",
+            "T9717C",
+            "C9762T",
+            "G9867A",
+            "T9879A",
+            "C10227T",
+            "T10245C",
+            "G10264A",
+            "T10344C",
+            "T10350C",
+            "C10357T"
+          ],
+          "strain": "EU545988_FSM_2007-06-XX",
+          "yvalue": 22
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 0.013424618399134133,
+            "country": "french_polynesia",
+            "country_confidence": {
+              "french_polynesia": 0.9978919953044247
+            },
+            "country_entropy": 0.019609262764445013,
+            "date": "2013-06-09",
+            "div": 0.0005580374456416824,
+            "num_date": 2013.440678356593,
+            "num_date_confidence": [
+              2002.9672395883726,
+              2013.9942318882404
+            ],
+            "region-in-PR": "french_polynesia",
+            "region-in-PR_confidence": {
+              "french_polynesia": 0.9978919953044247
+            },
+            "region-in-PR_entropy": 0.019609262764445013
+          },
+          "branch_length": 0.01342462,
+          "children": [
+            {
+              "aa_muts": {
+                "NS2A": [
+                  "M199I"
+                ]
+              },
+              "attr": {
+                "accession": "KX447513",
+                "authors": "Pettersson et al",
+                "clock_length": 0.000600180599467634,
+                "country": "french_polynesia",
+                "country_confidence": {
+                  "french_polynesia": 0.9999999999999999
+                },
+                "country_entropy": -9.99866855976916e-13,
+                "date": "2013-11-30",
+                "div": 0.0010230353839005349,
+                "num_date": 2013.9171800136892,
+                "num_date_confidence": [
+                  2013.9171800136892,
+                  2013.9905833383086
+                ],
+                "raw_date": "2013-12-XX",
+                "region-in-PR": "french_polynesia",
+                "region-in-PR_confidence": {
+                  "french_polynesia": 0.9999999999999999
+                },
+                "region-in-PR_entropy": -9.99866855976916e-13,
+                "url": "https://www.ncbi.nlm.nih.gov/nuccore/KX447513"
+              },
+              "branch_length": 0.00060018,
+              "clade": 1,
+              "muts": [
+                "A3171G",
+                "G4125A",
+                "T7569C",
+                "C8748T",
+                "G8769A"
+              ],
+              "strain": "KX447513_PYF_2013-12-XX",
+              "yvalue": 21
+            },
+            {
+              "aa_muts": {
+                "NS1": [
+                  "L177S"
+                ],
+                "NS2A": [
+                  "A58V"
+                ]
+              },
+              "attr": {
+                "accession": "KX447511",
+                "authors": "Pettersson et al",
+                "clock_length": 0.0007079455005836377,
+                "country": "french_polynesia",
+                "country_confidence": {
+                  "french_polynesia": 0.9999999999999999
+                },
+                "country_entropy": -9.99866855976916e-13,
+                "date": "2014-01-01",
+                "div": 0.0011160823683378338,
+                "num_date": 2014.002737850787,
+                "num_date_confidence": [
+                  2014.002737850787,
+                  2014.076087709285
+                ],
+                "raw_date": "2014-01-XX",
+                "region-in-PR": "french_polynesia",
+                "region-in-PR_confidence": {
+                  "french_polynesia": 0.9999999999999999
+                },
+                "region-in-PR_entropy": -9.99866855976916e-13,
+                "url": "https://www.ncbi.nlm.nih.gov/nuccore/KX447511"
+              },
+              "branch_length": 0.00070795,
+              "clade": 2,
+              "muts": [
+                "T1419C",
+                "C2532T",
+                "T3002C",
+                "G3435A",
+                "C3701T",
+                "T6003C"
+              ],
+              "strain": "KX447511_PYF_2014-01-XX",
+              "yvalue": 20
+            }
+          ],
+          "clade": 3,
+          "muts": [],
+          "strain": "NODE_0000002",
+          "yvalue": 20.5
+        }
+      ],
+      "clade": 4,
+      "muts": [],
+      "strain": "NODE_0000001",
+      "yvalue": 21.25
+    },
+    {
+      "aa_muts": {},
+      "attr": {
+        "clock_length": 0.013617903650979469,
+        "country": "french_polynesia",
+        "country_confidence": {
+          "brazil": 0.4286821137875719,
+          "french_polynesia": 0.5268608644434081,
+          "honduras": 0.005094862888175782,
+          "micronesia": 0.008997323181334865
+        },
+        "country_entropy": 0.9349615791779454,
+        "date": "2013-07-26",
+        "div": 0.0008372620737882636,
+        "num_date": 2013.5678814603857,
+        "num_date_confidence": [
+          1998.3637176187349,
+          2013.9945500594006
+        ],
+        "region-in-PR": "french_polynesia",
+        "region-in-PR_confidence": {
+          "brazil": 0.4286821137875719,
+          "french_polynesia": 0.5268608644434081,
+          "honduras": 0.005094862888175782,
+          "micronesia": 0.008997323181334865
+        },
+        "region-in-PR_entropy": 0.9349615791779454
+      },
+      "branch_length": 0.0136179,
+      "children": [
+        {
+          "aa_muts": {},
+          "attr": {
+            "accession": "KX447510",
+            "authors": "Pettersson et al",
+            "clock_length": 0.00043996114597476786,
+            "country": "french_polynesia",
+            "country_confidence": {
+              "french_polynesia": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2013-11-30",
+            "div": 0.0012092431388092436,
+            "num_date": 2013.9171800136892,
+            "num_date_confidence": [
+              2013.9171800136892,
+              2013.9901853247711
+            ],
+            "raw_date": "2013-12-XX",
+            "region-in-PR": "french_polynesia",
+            "region-in-PR_confidence": {
+              "french_polynesia": 1.0
+            },
+            "region-in-PR_entropy": -1.000088900581841e-12,
+            "url": "https://www.ncbi.nlm.nih.gov/nuccore/KX447510"
+          },
+          "branch_length": 0.00043996,
+          "clade": 5,
+          "muts": [
+            "A102T",
+            "A264T",
+            "C4059T",
+            "C6111T"
+          ],
+          "strain": "KX447510_PYF_2013-12-XX",
+          "yvalue": 19
+        },
+        {
+          "aa_muts": {
+            "NS5": [
+              "M114V"
+            ]
+          },
+          "attr": {
+            "clock_length": 0.0006651314587564038,
+            "country": "brazil",
+            "country_confidence": {
+              "brazil": 0.9999862462969984
+            },
+            "country_entropy": 0.00017809822175242414,
+            "date": "2014-02-04",
+            "div": 0.0011162231055580666,
+            "num_date": 2014.0959495828229,
+            "num_date_confidence": [
+              2001.4719863762532,
+              2015.4006945149106
+            ],
+            "region-in-PR": "brazil",
+            "region-in-PR_confidence": {
+              "brazil": 0.9999862462969984
+            },
+            "region-in-PR_entropy": 0.00017809822175242414
+          },
+          "branch_length": 0.00066513,
+          "children": [
+            {
+              "aa_muts": {
+                "E": [
+                  "V23I"
+                ],
+                "NS1": [
+                  "R99G",
+                  "Y122H"
+                ],
+                "NS3": [
+                  "H355Y"
+                ],
+                "NS4B": [
+                  "I26M",
+                  "I176M"
+                ]
+              },
+              "attr": {
+                "accession": "KX197192",
+                "authors": "Donald et al",
+                "clock_length": 0.0013277316819729186,
+                "country": "brazil",
+                "country_confidence": {
+                  "brazil": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2015-02-23",
+                "div": 0.0025124233604743446,
+                "num_date": 2015.1500762027108,
+                "num_date_confidence": [
+                  2015.002737850787,
+                  2015.9993155373031
+                ],
+                "raw_date": "2015-XX-XX",
+                "region-in-PR": "brazil",
+                "region-in-PR_confidence": {
+                  "brazil": 1.0
+                },
+                "region-in-PR_entropy": -1.000088900581841e-12,
+                "url": "https://www.ncbi.nlm.nih.gov/nuccore/KX197192"
+              },
+              "branch_length": 0.00132773,
+              "clade": 6,
+              "muts": [
+                "G237A",
+                "A402G",
+                "G1027A",
+                "C1296T",
+                "A2767G",
+                "T2836C",
+                "A4176G",
+                "T5214C",
+                "C5659T",
+                "A6975G",
+                "A7212G",
+                "A7425G",
+                "A7620G",
+                "C8760T",
+                "T9540C"
+              ],
+              "strain": "KX197192_BRA_2015-XX-XX",
+              "yvalue": 18
+            },
+            {
+              "aa_muts": {
+                "NS3": [
+                  "G565S"
+                ],
+                "NS4A": [
+                  "L48M"
+                ],
+                "NS5": [
+                  "Y74H",
+                  "S642P"
+                ]
+              },
+              "attr": {
+                "accession": "KX101060",
+                "authors": "Naccache et al",
+                "clock_length": 0.0015559679728635312,
+                "country": "brazil",
+                "country_confidence": {
+                  "brazil": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2015-05-01",
+                "div": 0.0025126069262860354,
+                "num_date": 2015.331279945243,
+                "num_date_confidence": [
+                  2015.331279945243,
+                  2015.4047585657017
+                ],
+                "raw_date": "2015-05-XX",
+                "region-in-PR": "brazil",
+                "region-in-PR_confidence": {
+                  "brazil": 1.0
+                },
+                "region-in-PR_entropy": -1.000088900581841e-12,
+                "url": "https://www.ncbi.nlm.nih.gov/nuccore/KX101060"
+              },
+              "branch_length": 0.00155597,
+              "clade": 7,
+              "muts": [
+                "C1296T",
+                "G1779A",
+                "A1965T",
+                "T2115C",
+                "G6289A",
+                "C6384T",
+                "T6589A",
+                "G6630A",
+                "G6999A",
+                "T7870C",
+                "C8142T",
+                "T9483C",
+                "A9543C",
+                "T9574C",
+                "T9996C"
+              ],
+              "strain": "KX101060_BRA_2015-05-XX",
+              "yvalue": 17
+            },
+            {
+              "aa_muts": {
+                "C": [
+                  "G105S"
+                ],
+                "E": [
+                  "M349T"
+                ],
+                "NS3": [
+                  "M334T"
+                ]
+              },
+              "attr": {
+                "accession": "KU729218",
+                "authors": "Faria et al",
+                "clock_length": 0.0012413734405143243,
+                "country": "brazil",
+                "country_confidence": {
+                  "brazil": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2015-01-29",
+                "div": 0.002419194338929785,
+                "num_date": 2015.081513764679,
+                "num_date_confidence": [
+                  2015.002737850787,
+                  2015.9993155373031
+                ],
+                "raw_date": "2015-XX-XX",
+                "region-in-PR": "brazil",
+                "region-in-PR_confidence": {
+                  "brazil": 1.0
+                },
+                "region-in-PR_entropy": -1.000088900581841e-12,
+                "url": "https://www.ncbi.nlm.nih.gov/nuccore/KU729218"
+              },
+              "branch_length": 0.00124137,
+              "clade": 8,
+              "muts": [
+                "G403A",
+                "C600T",
+                "C1674T",
+                "T2006C",
+                "T5025C",
+                "C5430T",
+                "T5597C",
+                "A7608G",
+                "C7713T",
+                "T8295C",
+                "A9021G",
+                "C9354T",
+                "A9642G",
+                "C9690T"
+              ],
+              "strain": "KU729218_BRA_2015-XX-XX",
+              "yvalue": 16
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.00010058081432050021,
+                "country": "brazil",
+                "country_confidence": {
+                  "brazil": 0.9984083718664929
+                },
+                "country_entropy": 0.014131503803719681,
+                "date": "2014-03-05",
+                "div": 0.0011162231055580666,
+                "num_date": 2014.1758037546144,
+                "num_date_confidence": [
+                  2001.3947299480058,
+                  2015.8566668133471
+                ],
+                "region-in-PR": "brazil",
+                "region-in-PR_confidence": {
+                  "brazil": 0.9984083718664929
+                },
+                "region-in-PR_entropy": 0.014131503803719681
+              },
+              "branch_length": 0.00010058,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.0009765471311890331,
+                    "country": "brazil",
+                    "country_confidence": {
+                      "brazil": 0.9770961753273305,
+                      "french_guiana": 0.020708758839140577
+                    },
+                    "country_entropy": 0.12105928811415179,
+                    "date": "2014-12-13",
+                    "div": 0.0021398330435901964,
+                    "num_date": 2014.9511142639124,
+                    "num_date_confidence": [
+                      2006.020248388066,
+                      2015.9865968436466
+                    ],
+                    "region-in-PR": "brazil",
+                    "region-in-PR_confidence": {
+                      "brazil": 0.9770961753273305,
+                      "french_guiana": 0.020708758839140577
+                    },
+                    "region-in-PR_entropy": 0.12105928811415179
+                  },
+                  "branch_length": 0.00097655,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "KU365778",
+                        "authors": "Azevedo et al",
+                        "clock_length": 0.0012582169940987317,
+                        "country": "brazil",
+                        "country_confidence": {
+                          "brazil": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2015-12-13",
+                        "div": 0.003070333907726122,
+                        "num_date": 2015.9500510559483,
+                        "num_date_confidence": [
+                          2015.002737850787,
+                          2015.9993155373031
+                        ],
+                        "raw_date": "2015-XX-XX",
+                        "region-in-PR": "brazil",
+                        "region-in-PR_confidence": {
+                          "brazil": 1.0
+                        },
+                        "region-in-PR_entropy": -1.000088900581841e-12,
+                        "url": "https://www.ncbi.nlm.nih.gov/nuccore/KU365778"
+                      },
+                      "branch_length": 0.00125822,
+                      "clade": 9,
+                      "muts": [
+                        "G306T",
+                        "A2439G",
+                        "G4185A",
+                        "C4536T",
+                        "G5109A",
+                        "C6318T",
+                        "T8077C",
+                        "C9009T",
+                        "G9720A",
+                        "A9936G"
+                      ],
+                      "strain": "KU365778_BRA_2015-XX-XX",
+                      "yvalue": 15
+                    },
+                    {
+                      "aa_muts": {
+                        "NS2A": [
+                          "K25R"
+                        ]
+                      },
+                      "attr": {
+                        "accession": "KU758877",
+                        "authors": "Enfissi et al",
+                        "clock_length": 0.0012168140701960444,
+                        "country": "french_guiana",
+                        "country_confidence": {
+                          "french_guiana": 0.9999999999999999
+                        },
+                        "country_entropy": -9.99866855976916e-13,
+                        "date": "2015-11-30",
+                        "div": 0.0028841083204026686,
+                        "num_date": 2015.9171800136892,
+                        "num_date_confidence": [
+                          2015.9171800136892,
+                          2015.9900926505088
+                        ],
+                        "raw_date": "2015-12-XX",
+                        "region-in-PR": "french_guiana",
+                        "region-in-PR_confidence": {
+                          "french_guiana": 0.9999999999999999
+                        },
+                        "region-in-PR_entropy": -9.99866855976916e-13,
+                        "url": "https://www.ncbi.nlm.nih.gov/nuccore/KU758877"
+                      },
+                      "branch_length": 0.00121681,
+                      "clade": 10,
+                      "muts": [
+                        "T1476C",
+                        "G2508A",
+                        "A2604G",
+                        "A3602G",
+                        "G4953A",
+                        "T6708C",
+                        "A6759G",
+                        "G10116A"
+                      ],
+                      "strain": "KU758877_GUF_2015-12-XX",
+                      "yvalue": 14
+                    }
+                  ],
+                  "clade": 11,
+                  "muts": [
+                    "G1458A",
+                    "C1887T",
+                    "T3549C",
+                    "T3576C",
+                    "T5139C",
+                    "A5298G",
+                    "T6612A",
+                    "T6654C",
+                    "T7077C",
+                    "C9225T",
+                    "C9279T"
+                  ],
+                  "strain": "NODE_0000135",
+                  "yvalue": 14.5
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 6.351539800148603e-05,
+                    "country": "brazil",
+                    "country_confidence": {
+                      "brazil": 0.9870481410733294,
+                      "colombia": 0.0018725161260949692,
+                      "martinique": 0.006729910074996283,
+                      "panama": 0.0018725155276955489
+                    },
+                    "country_entropy": 0.08921138319439129,
+                    "date": "2014-03-23",
+                    "div": 0.0011162231055580666,
+                    "num_date": 2014.226230563521,
+                    "num_date_confidence": [
+                      2001.3187167336628,
+                      2015.8935299146126
+                    ],
+                    "region-in-PR": "brazil",
+                    "region-in-PR_confidence": {
+                      "brazil": 0.9870481410733294,
+                      "colombia": 0.0018725161260949692,
+                      "martinique": 0.006729910074996283,
+                      "panama": 0.0018725155276955489
+                    },
+                    "region-in-PR_entropy": 0.08921138319439129
+                  },
+                  "branch_length": 6.352e-05,
+                  "children": [
+                    {
+                      "aa_muts": {
+                        "C": [
+                          "D107E"
+                        ],
+                        "NS1": [
+                          "R324W"
+                        ],
+                        "NS5": [
+                          "T833A"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 0.0012667683042603683,
+                        "country": "martinique",
+                        "country_confidence": {
+                          "brazil": 0.3019667490013479,
+                          "colombia": 0.12590852545153516,
+                          "martinique": 0.4184253182568065,
+                          "panama": 0.12590847327260507
+                        },
+                        "country_entropy": 1.4010022544252463,
+                        "date": "2015-03-25",
+                        "div": 0.002046717039332063,
+                        "num_date": 2015.2319565011342,
+                        "num_date_confidence": [
+                          2005.922139575576,
+                          2015.9760151550336
+                        ],
+                        "region-in-PR": "martinique",
+                        "region-in-PR_confidence": {
+                          "brazil": 0.3019667490013479,
+                          "colombia": 0.12590852545153516,
+                          "martinique": 0.4184253182568065,
+                          "panama": 0.12590847327260507
+                        },
+                        "region-in-PR_entropy": 1.4010022544252463
+                      },
+                      "branch_length": 0.00126677,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "NS2A": [
+                              "I80T"
+                            ]
+                          },
+                          "attr": {
+                            "accession": "KU647676",
+                            "authors": "Piorkowski et al",
+                            "clock_length": 0.0008630774991232231,
+                            "country": "martinique",
+                            "country_confidence": {
+                              "martinique": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2015-11-30",
+                            "div": 0.002790968550483713,
+                            "num_date": 2015.9171800136892,
+                            "num_date_confidence": [
+                              2015.9171800136892,
+                              2015.990492753694
+                            ],
+                            "raw_date": "2015-12-XX",
+                            "region-in-PR": "martinique",
+                            "region-in-PR_confidence": {
+                              "martinique": 1.0
+                            },
+                            "region-in-PR_entropy": -1.000088900581841e-12,
+                            "url": "https://www.ncbi.nlm.nih.gov/nuccore/KU647676"
+                          },
+                          "branch_length": 0.00086308,
+                          "clade": 12,
+                          "muts": [
+                            "T885G",
+                            "T1989C",
+                            "G3153A",
+                            "T3767C",
+                            "C3885T",
+                            "C4251T",
+                            "T4431C",
+                            "G7179A"
+                          ],
+                          "strain": "KU647676_MTQ_2015-12-XX",
+                          "yvalue": 13
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.00016854836797529794,
+                            "country": "colombia",
+                            "country_confidence": {
+                              "brazil": 0.08892389313303622,
+                              "colombia": 0.38088330709781765,
+                              "martinique": 0.1265119068895721,
+                              "panama": 0.38088319480008426
+                            },
+                            "country_entropy": 1.3423743094303808,
+                            "date": "2015-05-13",
+                            "div": 0.0022326701497053995,
+                            "num_date": 2015.365772183801,
+                            "num_date_confidence": [
+                              2005.2373142865117,
+                              2015.991370119142
+                            ],
+                            "region-in-PR": "colombia",
+                            "region-in-PR_confidence": {
+                              "brazil": 0.08892389313303622,
+                              "colombia": 0.38088330709781765,
+                              "martinique": 0.1265119068895721,
+                              "panama": 0.38088319480008426
+                            },
+                            "region-in-PR_entropy": 1.3423743094303808
+                          },
+                          "branch_length": 0.00016855,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KX198135",
+                                "authors": "Shabman et al",
+                                "clock_length": 0.0008022940322639288,
+                                "country": "panama",
+                                "country_confidence": {
+                                  "panama": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2016-01-01",
+                                "div": 0.0026976773593639807,
+                                "num_date": 2016.002737850787,
+                                "num_date_confidence": [
+                                  2016.002737850787,
+                                  2016.3173072906152
+                                ],
+                                "raw_date": "2016-XX-XX",
+                                "region-in-PR": "panama",
+                                "region-in-PR_confidence": {
+                                  "panama": 1.0
+                                },
+                                "region-in-PR_entropy": -1.000088900581841e-12,
+                                "url": "https://www.ncbi.nlm.nih.gov/nuccore/KX198135"
+                              },
+                              "branch_length": 0.00080229,
+                              "clade": 13,
+                              "muts": [
+                                "G438T",
+                                "C1416T",
+                                "T4053C",
+                                "C7197T",
+                                "C9792T"
+                              ],
+                              "strain": "KX198135_PAN_2016-XX-XX",
+                              "yvalue": 12
+                            },
+                            {
+                              "aa_muts": {
+                                "NS1": [
+                                  "K33R"
+                                ]
+                              },
+                              "attr": {
+                                "accession": "KY989971",
+                                "authors": "Kneubehl et al",
+                                "clock_length": 0.0007979834362192425,
+                                "country": "colombia",
+                                "country_confidence": {
+                                  "colombia": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2015-12-30",
+                                "div": 0.002976848824587562,
+                                "num_date": 2015.9993155373031,
+                                "num_date_confidence": [
+                                  2015.9258923200798,
+                                  2015.9993155373031
+                                ],
+                                "raw_date": "2015-12-XX",
+                                "region-in-PR": "colombia",
+                                "region-in-PR_confidence": {
+                                  "colombia": 1.0
+                                },
+                                "region-in-PR_entropy": -1.000088900581841e-12,
+                                "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY989971"
+                              },
+                              "branch_length": 0.00079798,
+                              "clade": 14,
+                              "muts": [
+                                "T1029C",
+                                "A2570G",
+                                "C3126T",
+                                "T3705C",
+                                "G5148A",
+                                "C7056T",
+                                "A8673G",
+                                "T9954C"
+                              ],
+                              "strain": "KY989971_COL_2015-12-XX",
+                              "yvalue": 11
+                            }
+                          ],
+                          "clade": 15,
+                          "muts": [
+                            "A3894G",
+                            "C9279T"
+                          ],
+                          "strain": "NODE_0000042",
+                          "yvalue": 11.5
+                        }
+                      ],
+                      "clade": 16,
+                      "muts": [
+                        "T411A",
+                        "T738C",
+                        "C858T",
+                        "G864T",
+                        "C1381T",
+                        "C2517T",
+                        "C3442T",
+                        "T3972C",
+                        "C5991T",
+                        "A10147G"
+                      ],
+                      "strain": "NODE_0000032",
+                      "yvalue": 12.25
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 6.391608801192654e-05,
+                        "country": "brazil",
+                        "country_confidence": {
+                          "brazil": 0.9974827874744904,
+                          "honduras": 0.0014843205491745903
+                        },
+                        "country_entropy": 0.021109188058406052,
+                        "date": "2014-04-11",
+                        "div": 0.0011162231055580666,
+                        "num_date": 2014.2769754924304,
+                        "num_date_confidence": [
+                          1997.7816194146553,
+                          2015.9259510075724
+                        ],
+                        "region-in-PR": "brazil",
+                        "region-in-PR_confidence": {
+                          "brazil": 0.9974827874744904,
+                          "honduras": 0.0014843205491745903
+                        },
+                        "region-in-PR_entropy": 0.021109188058406052
+                      },
+                      "branch_length": 6.392e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.00024317188264146201,
+                            "country": "brazil",
+                            "country_confidence": {
+                              "brazil": 0.9618547953645291,
+                              "honduras": 0.03419736360340325
+                            },
+                            "country_entropy": 0.18323974196471673,
+                            "date": "2014-06-20",
+                            "div": 0.0012091952498425919,
+                            "num_date": 2014.470037056134,
+                            "num_date_confidence": [
+                              1998.9889337287811,
+                              2016.0769279560816
+                            ],
+                            "region-in-PR": "brazil",
+                            "region-in-PR_confidence": {
+                              "brazil": 0.9618547953645291,
+                              "honduras": 0.03419736360340325
+                            },
+                            "region-in-PR_entropy": 0.18323974196471673
+                          },
+                          "branch_length": 0.00024317,
+                          "children": [
+                            {
+                              "aa_muts": {
+                                "NS3": [
+                                  "K537R"
+                                ],
+                                "NS5": [
+                                  "M377I",
+                                  "N428S"
+                                ]
+                              },
+                              "attr": {
+                                "accession": "KY559032",
+                                "authors": "Faria et al",
+                                "clock_length": 0.0019305227338462065,
+                                "country": "brazil",
+                                "country_confidence": {
+                                  "brazil": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2016-01-01",
+                                "div": 0.0019533938582326237,
+                                "num_date": 2016.002737850787,
+                                "num_date_confidence": [
+                                  2016.002737850787,
+                                  2016.0765981783084
+                                ],
+                                "raw_date": "2016-01-XX",
+                                "region-in-PR": "brazil",
+                                "region-in-PR_confidence": {
+                                  "brazil": 1.0
+                                },
+                                "region-in-PR_entropy": -1.000088900581841e-12,
+                                "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY559032"
+                              },
+                              "branch_length": 0.00193052,
+                              "clade": 17,
+                              "muts": [
+                                "T450C",
+                                "C1836T",
+                                "T2596C",
+                                "T3804C",
+                                "A6206G",
+                                "C6834T",
+                                "G8781A",
+                                "A8933G"
+                              ],
+                              "strain": "KY559032_BRA_2016-01-XX",
+                              "yvalue": 10
+                            },
+                            {
+                              "aa_muts": {
+                                "NS1": [
+                                  "G100A"
+                                ],
+                                "NS3": [
+                                  "M572L"
+                                ],
+                                "NS5": [
+                                  "R525C"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.0011192864957208027,
+                                "country": "honduras",
+                                "country_confidence": {
+                                  "brazil": 0.008587877944105505,
+                                  "cuba": 0.0033405538924240236,
+                                  "honduras": 0.9802060057751718,
+                                  "mexico": 0.007324744580405209
+                                },
+                                "country_entropy": 0.12062386325502572,
+                                "date": "2015-05-11",
+                                "div": 0.002046705297496104,
+                                "num_date": 2015.3586726942226,
+                                "num_date_confidence": [
+                                  2005.929950120375,
+                                  2016.9893346864685
+                                ],
+                                "region-in-PR": "honduras",
+                                "region-in-PR_confidence": {
+                                  "brazil": 0.008587877944105505,
+                                  "cuba": 0.0033405538924240236,
+                                  "honduras": 0.9802060057751718,
+                                  "mexico": 0.007324744580405209
+                                },
+                                "region-in-PR_entropy": 0.12062386325502572
+                              },
+                              "branch_length": 0.00111929,
+                              "children": [
+                                {
+                                  "aa_muts": {
+                                    "NS2A": [
+                                      "M181V"
+                                    ],
+                                    "NS5": [
+                                      "V519I",
+                                      "N870S"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "accession": "MF801381",
+                                    "authors": "Theze et al",
+                                    "clock_length": 0.001195901865019871,
+                                    "country": "honduras",
+                                    "country_confidence": {
+                                      "honduras": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2016-04-22",
+                                    "div": 0.0032565609048184913,
+                                    "num_date": 2016.3081356074051,
+                                    "num_date_confidence": [
+                                      2016.002737850787,
+                                      2017.0020533880904
+                                    ],
+                                    "raw_date": "2016-XX-XX",
+                                    "region-in-PR": "honduras",
+                                    "region-in-PR_confidence": {
+                                      "honduras": 1.0
+                                    },
+                                    "region-in-PR_entropy": -1.000088900581841e-12,
+                                    "url": "https://www.ncbi.nlm.nih.gov/nuccore/MF801381"
+                                  },
+                                  "branch_length": 0.0011959,
+                                  "clade": 18,
+                                  "muts": [
+                                    "A1689G",
+                                    "C1764T",
+                                    "A3273G",
+                                    "A4069G",
+                                    "A4341T",
+                                    "A4950T",
+                                    "T5184A",
+                                    "T6747C",
+                                    "T7047A",
+                                    "C8379T",
+                                    "G9205A",
+                                    "T9930C",
+                                    "A10259G"
+                                  ],
+                                  "strain": "MF801381_HND_2016-XX-XX",
+                                  "yvalue": 9
+                                },
+                                {
+                                  "aa_muts": {
+                                    "E": [
+                                      "K281R"
+                                    ],
+                                    "NS1": [
+                                      "Q48H"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "accession": "MF801382",
+                                    "authors": "Theze et al",
+                                    "clock_length": 0.0008953863479317934,
+                                    "country": "honduras",
+                                    "country_confidence": {
+                                      "honduras": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2016-01-25",
+                                    "div": 0.002976971098898988,
+                                    "num_date": 2016.0695471858492,
+                                    "num_date_confidence": [
+                                      2016.002737850787,
+                                      2017.0020533880904
+                                    ],
+                                    "raw_date": "2016-XX-XX",
+                                    "region-in-PR": "honduras",
+                                    "region-in-PR_confidence": {
+                                      "honduras": 1.0
+                                    },
+                                    "region-in-PR_entropy": -1.000088900581841e-12,
+                                    "url": "https://www.ncbi.nlm.nih.gov/nuccore/MF801382"
+                                  },
+                                  "branch_length": 0.00089539,
+                                  "clade": 19,
+                                  "muts": [
+                                    "A1802G",
+                                    "T2596C",
+                                    "A2616T",
+                                    "A7206G",
+                                    "G8037A",
+                                    "C8242T",
+                                    "A8322G",
+                                    "G8388A",
+                                    "C9181T",
+                                    "T9780C"
+                                  ],
+                                  "strain": "MF801382_HND_2016-XX-XX",
+                                  "yvalue": 8
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "MF988734",
+                                    "authors": "Tan et al",
+                                    "clock_length": 0.0028018694915397887,
+                                    "country": "cuba",
+                                    "country_confidence": {
+                                      "cuba": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2017-07-31",
+                                    "div": 0.00344292814147609,
+                                    "num_date": 2017.583162217659,
+                                    "num_date_confidence": [
+                                      2017.583162217659,
+                                      2017.6550761832568
+                                    ],
+                                    "raw_date": "2017-08-XX",
+                                    "region-in-PR": "cuba",
+                                    "region-in-PR_confidence": {
+                                      "cuba": 1.0
+                                    },
+                                    "region-in-PR_entropy": -1.000088900581841e-12,
+                                    "url": "https://www.ncbi.nlm.nih.gov/nuccore/MF988734"
+                                  },
+                                  "branch_length": 0.00280187,
+                                  "clade": 20,
+                                  "muts": [
+                                    "T300A",
+                                    "T1854C",
+                                    "C2646T",
+                                    "C2901T",
+                                    "C3018T",
+                                    "C4338T",
+                                    "C4887T",
+                                    "C6282T",
+                                    "C6412T",
+                                    "G6453T",
+                                    "T7299C",
+                                    "C7908T",
+                                    "C8646A",
+                                    "T8763C",
+                                    "C8784T"
+                                  ],
+                                  "strain": "MF988734_CUB_2017-08-XX",
+                                  "yvalue": 7
+                                },
+                                {
+                                  "aa_muts": {
+                                    "NS1": [
+                                      "K245T"
+                                    ],
+                                    "NS2A": [
+                                      "A117V"
+                                    ],
+                                    "NS3": [
+                                      "V40I"
+                                    ],
+                                    "NS5": [
+                                      "S642P"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "accession": "KY648934",
+                                    "authors": "Shabman et al",
+                                    "clock_length": 0.0013866470536544563,
+                                    "country": "mexico",
+                                    "country_confidence": {
+                                      "mexico": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2016-06-16",
+                                    "div": 0.00344280384031746,
+                                    "num_date": 2016.4595740220225,
+                                    "num_date_confidence": [
+                                      2016.002737850787,
+                                      2017.0020533880904
+                                    ],
+                                    "raw_date": "2016-XX-XX",
+                                    "region-in-PR": "mexico",
+                                    "region-in-PR_confidence": {
+                                      "mexico": 1.0
+                                    },
+                                    "region-in-PR_entropy": -1.000088900581841e-12,
+                                    "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY648934"
+                                  },
+                                  "branch_length": 0.00138665,
+                                  "clade": 21,
+                                  "muts": [
+                                    "T1098C",
+                                    "T2961C",
+                                    "A3206C",
+                                    "A3801G",
+                                    "C3878T",
+                                    "C4209T",
+                                    "A4590G",
+                                    "G4714A",
+                                    "T5070C",
+                                    "T5433C",
+                                    "A6360G",
+                                    "T6612C",
+                                    "T7290C",
+                                    "C9459T",
+                                    "T9574C"
+                                  ],
+                                  "strain": "KY648934_MEX_2016-XX-XX",
+                                  "yvalue": 6
+                                }
+                              ],
+                              "clade": 22,
+                              "muts": [
+                                "G2771C",
+                                "G3600A",
+                                "G3846A",
+                                "G5178A",
+                                "A5298G",
+                                "A6310C",
+                                "T6708C",
+                                "C6720T",
+                                "C9223T"
+                              ],
+                              "strain": "NODE_0000223",
+                              "yvalue": 7.5
+                            }
+                          ],
+                          "clade": 23,
+                          "muts": [
+                            "G4767A"
+                          ],
+                          "strain": "NODE_0000207",
+                          "yvalue": 8.75
+                        },
+                        {
+                          "aa_muts": {
+                            "NS1": [
+                              "M349V"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 0.00013216160649177824,
+                            "country": "brazil",
+                            "country_confidence": {
+                              "brazil": 0.9995765099645371
+                            },
+                            "country_entropy": 0.004350060897778335,
+                            "date": "2014-05-19",
+                            "div": 0.0013021836311566963,
+                            "num_date": 2014.3819026169554,
+                            "num_date_confidence": [
+                              1998.2980980109141,
+                              2015.9616032402332
+                            ],
+                            "region-in-PR": "brazil",
+                            "region-in-PR_confidence": {
+                              "brazil": 0.9995765099645371
+                            },
+                            "region-in-PR_entropy": 0.004350060897778335
+                          },
+                          "branch_length": 0.00013216,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 0.00011789977993099075,
+                                "country": "brazil",
+                                "country_confidence": {
+                                  "brazil": 0.9998202279430974
+                                },
+                                "country_entropy": 0.0021195450335732614,
+                                "date": "2014-06-22",
+                                "div": 0.0013951570555681388,
+                                "num_date": 2014.4755068430138,
+                                "num_date_confidence": [
+                                  1998.814121959715,
+                                  2015.986588558341
+                                ],
+                                "region-in-PR": "brazil",
+                                "region-in-PR_confidence": {
+                                  "brazil": 0.9998202279430974
+                                },
+                                "region-in-PR_entropy": 0.0021195450335732614
+                              },
+                              "branch_length": 0.0001179,
+                              "children": [
+                                {
+                                  "aa_muts": {
+                                    "NS1": [
+                                      "K146E",
+                                      "T233A"
+                                    ],
+                                    "NS4B": [
+                                      "T240I"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "accession": "KU527068",
+                                    "authors": "Mlakar et al",
+                                    "clock_length": 0.0017774420182276752,
+                                    "country": "brazil",
+                                    "country_confidence": {
+                                      "brazil": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2015-11-19",
+                                    "div": 0.0029779856765960473,
+                                    "num_date": 2015.8866721952909,
+                                    "num_date_confidence": [
+                                      2015.002737850787,
+                                      2015.9993155373031
+                                    ],
+                                    "raw_date": "2015-XX-XX",
+                                    "region-in-PR": "brazil",
+                                    "region-in-PR_confidence": {
+                                      "brazil": 1.0
+                                    },
+                                    "region-in-PR_entropy": -1.000088900581841e-12,
+                                    "url": "https://www.ncbi.nlm.nih.gov/nuccore/KU527068"
+                                  },
+                                  "branch_length": 0.00177744,
+                                  "clade": 24,
+                                  "muts": [
+                                    "G237A",
+                                    "T1599C",
+                                    "A2664G",
+                                    "C2707T",
+                                    "A2908G",
+                                    "A3042G",
+                                    "G3123A",
+                                    "A3169G",
+                                    "A3201T",
+                                    "A3315G",
+                                    "T3714C",
+                                    "C5920T",
+                                    "C7434A",
+                                    "C7616T",
+                                    "C7788T",
+                                    "T9288C",
+                                    "C9336T"
+                                  ],
+                                  "strain": "KU527068_BRA_2015-XX-XX",
+                                  "yvalue": 5
+                                },
+                                {
+                                  "aa_muts": {
+                                    "E": [
+                                      "T47S",
+                                      "S64T",
+                                      "M68I",
+                                      "V255A"
+                                    ],
+                                    "NS1": [
+                                      "G190E"
+                                    ],
+                                    "NS2B": [
+                                      "M32I"
+                                    ],
+                                    "NS5": [
+                                      "N280D"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "accession": "KU729217",
+                                    "authors": "Faria et al",
+                                    "clock_length": 0.0017772493159596454,
+                                    "country": "brazil",
+                                    "country_confidence": {
+                                      "brazil": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2015-11-19",
+                                    "div": 0.00297789589707174,
+                                    "num_date": 2015.8865192030912,
+                                    "num_date_confidence": [
+                                      2015.002737850787,
+                                      2015.9993155373031
+                                    ],
+                                    "raw_date": "2015-XX-XX",
+                                    "region-in-PR": "brazil",
+                                    "region-in-PR_confidence": {
+                                      "brazil": 1.0
+                                    },
+                                    "region-in-PR_entropy": -1.000088900581841e-12,
+                                    "url": "https://www.ncbi.nlm.nih.gov/nuccore/KU729217"
+                                  },
+                                  "branch_length": 0.00177725,
+                                  "clade": 25,
+                                  "muts": [
+                                    "A1099T",
+                                    "T1150A",
+                                    "G1164A",
+                                    "T1724C",
+                                    "C2700T",
+                                    "A2751G",
+                                    "G3041A",
+                                    "G3480A",
+                                    "G4302A",
+                                    "T5403C",
+                                    "C7494T",
+                                    "T8028C",
+                                    "T8190C",
+                                    "C8233T",
+                                    "A8488G",
+                                    "A8925G",
+                                    "T9349C"
+                                  ],
+                                  "strain": "KU729217_BRA_2015-XX-XX",
+                                  "yvalue": 4
+                                }
+                              ],
+                              "clade": 26,
+                              "muts": [
+                                "T2358C"
+                              ],
+                              "strain": "NODE_0000073",
+                              "yvalue": 4.5
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 0.00010647438310183895,
+                                "country": "brazil",
+                                "country_confidence": {
+                                  "brazil": 0.989304940953243,
+                                  "ecuador": 0.009054002887471102
+                                },
+                                "country_entropy": 0.06726454507277194,
+                                "date": "2014-06-19",
+                                "div": 0.0013951557229548994,
+                                "num_date": 2014.4664358724976,
+                                "num_date_confidence": [
+                                  1998.7712085048865,
+                                  2015.9865980270017
+                                ],
+                                "region-in-PR": "brazil",
+                                "region-in-PR_confidence": {
+                                  "brazil": 0.989304940953243,
+                                  "ecuador": 0.009054002887471102
+                                },
+                                "region-in-PR_entropy": 0.06726454507277194
+                              },
+                              "branch_length": 0.00010647,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "KX280026",
+                                    "authors": "Tsetsarkin et al",
+                                    "clock_length": 0.000863439412683388,
+                                    "country": "brazil",
+                                    "country_confidence": {
+                                      "brazil": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2015-02-24",
+                                    "div": 0.0022325001960711924,
+                                    "num_date": 2015.1519467192504,
+                                    "num_date_confidence": [
+                                      2015.002737850787,
+                                      2015.9993155373031
+                                    ],
+                                    "raw_date": "2015-XX-XX",
+                                    "region-in-PR": "brazil",
+                                    "region-in-PR_confidence": {
+                                      "brazil": 1.0
+                                    },
+                                    "region-in-PR_entropy": -1.000088900581841e-12,
+                                    "url": "https://www.ncbi.nlm.nih.gov/nuccore/KX280026"
+                                  },
+                                  "branch_length": 0.00086344,
+                                  "clade": 27,
+                                  "muts": [
+                                    "C819T",
+                                    "G906A",
+                                    "T3120C",
+                                    "A5421G",
+                                    "C6303T",
+                                    "T6942C",
+                                    "G7476A",
+                                    "T8391A",
+                                    "A9543G"
+                                  ],
+                                  "strain": "KX280026_BRA_2015-XX-XX",
+                                  "yvalue": 3
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.002076870904549304,
+                                    "country": "ecuador",
+                                    "country_confidence": {
+                                      "brazil": 0.00748363852164751,
+                                      "ecuador": 0.9914153970178609
+                                    },
+                                    "country_entropy": 0.0550818633718284,
+                                    "date": "2016-02-11",
+                                    "div": 0.0026054845867888986,
+                                    "num_date": 2016.115326937071,
+                                    "num_date_confidence": [
+                                      2014.246739710152,
+                                      2016.326838818537
+                                    ],
+                                    "region-in-PR": "ecuador",
+                                    "region-in-PR_confidence": {
+                                      "brazil": 0.00748363852164751,
+                                      "ecuador": 0.9914153970178609
+                                    },
+                                    "region-in-PR_entropy": 0.0550818633718284
+                                  },
+                                  "branch_length": 0.00207687,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "accession": "KX879604",
+                                        "authors": "Marquez et al",
+                                        "clock_length": 0.00017199911439462045,
+                                        "country": "ecuador",
+                                        "country_confidence": {
+                                          "ecuador": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2016-04-02",
+                                        "div": 0.002698445026066153,
+                                        "num_date": 2016.2518822724162,
+                                        "num_date_confidence": [
+                                          2016.2518822724162,
+                                          2016.3211645631147
+                                        ],
+                                        "raw_date": "2016-04-XX",
+                                        "region-in-PR": "ecuador",
+                                        "region-in-PR_confidence": {
+                                          "ecuador": 1.0
+                                        },
+                                        "region-in-PR_entropy": -1.000088900581841e-12,
+                                        "url": "https://www.ncbi.nlm.nih.gov/nuccore/KX879604"
+                                      },
+                                      "branch_length": 0.000172,
+                                      "clade": 28,
+                                      "muts": [
+                                        "T6711C"
+                                      ],
+                                      "strain": "KX879604_ECU_2016-04-XX",
+                                      "yvalue": 2
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "accession": "KX879603",
+                                        "authors": "Marquez et al",
+                                        "clock_length": 0.00027200494263030384,
+                                        "country": "ecuador",
+                                        "country_confidence": {
+                                          "ecuador": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2016-05-01",
+                                        "div": 0.00288441454107436,
+                                        "num_date": 2016.331279945243,
+                                        "num_date_confidence": [
+                                          2016.2608460539589,
+                                          2016.331279945243
+                                        ],
+                                        "raw_date": "2016-04-XX",
+                                        "region-in-PR": "ecuador",
+                                        "region-in-PR_confidence": {
+                                          "ecuador": 1.0
+                                        },
+                                        "region-in-PR_entropy": -1.000088900581841e-12,
+                                        "url": "https://www.ncbi.nlm.nih.gov/nuccore/KX879603"
+                                      },
+                                      "branch_length": 0.000272,
+                                      "clade": 29,
+                                      "muts": [
+                                        "T2409C",
+                                        "A9420G",
+                                        "A10347G"
+                                      ],
+                                      "strain": "KX879603_ECU_2016-04-XX",
+                                      "yvalue": 1
+                                    }
+                                  ],
+                                  "clade": 30,
+                                  "muts": [
+                                    "T1275C",
+                                    "T1858C",
+                                    "A2754G",
+                                    "A3780G",
+                                    "G4971T",
+                                    "C5532T",
+                                    "G5751A",
+                                    "G6453C",
+                                    "A6873G",
+                                    "C8232A",
+                                    "T8553C",
+                                    "G9933T",
+                                    "C10098T"
+                                  ],
+                                  "strain": "NODE_0000071",
+                                  "yvalue": 1.5
+                                }
+                              ],
+                              "clade": 31,
+                              "muts": [
+                                "C8850T"
+                              ],
+                              "strain": "NODE_0000065",
+                              "yvalue": 2.25
+                            }
+                          ],
+                          "clade": 32,
+                          "muts": [
+                            "A3517G",
+                            "G6966A"
+                          ],
+                          "strain": "NODE_0000063",
+                          "yvalue": 3.375
+                        }
+                      ],
+                      "clade": 33,
+                      "muts": [],
+                      "strain": "NODE_0000009",
+                      "yvalue": 6.0625
+                    }
+                  ],
+                  "clade": 34,
+                  "muts": [],
+                  "strain": "NODE_0000006",
+                  "yvalue": 9.15625
+                }
+              ],
+              "clade": 35,
+              "muts": [],
+              "strain": "NODE_0000005",
+              "yvalue": 11.828125
+            }
+          ],
+          "clade": 36,
+          "muts": [
+            "T7500C",
+            "A7990G",
+            "G9417A"
+          ],
+          "strain": "NODE_0000004",
+          "yvalue": 14.9140625
+        }
+      ],
+      "clade": 37,
+      "muts": [
+        "T2637C",
+        "T3501C",
+        "C8391T"
+      ],
+      "strain": "NODE_0000003",
+      "yvalue": 16.95703125
+    }
+  ],
+  "clade": 38,
+  "muts": [],
+  "strain": "NODE_0000000",
+  "yvalue": 19.103515625
+}
