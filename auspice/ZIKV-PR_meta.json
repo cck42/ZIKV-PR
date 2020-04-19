@@ -1,0 +1,909 @@
+{
+  "annotations": {
+    "2K": {
+      "end": 6897,
+      "start": 6828,
+      "strand": 1
+    },
+    "C": {
+      "end": 456,
+      "start": 90,
+      "strand": 1
+    },
+    "E": {
+      "end": 2472,
+      "start": 960,
+      "strand": 1
+    },
+    "M": {
+      "end": 960,
+      "start": 735,
+      "strand": 1
+    },
+    "NS1": {
+      "end": 3528,
+      "start": 2472,
+      "strand": 1
+    },
+    "NS2A": {
+      "end": 4206,
+      "start": 3528,
+      "strand": 1
+    },
+    "NS2B": {
+      "end": 4596,
+      "start": 4206,
+      "strand": 1
+    },
+    "NS3": {
+      "end": 6447,
+      "start": 4596,
+      "strand": 1
+    },
+    "NS4A": {
+      "end": 6828,
+      "start": 6447,
+      "strand": 1
+    },
+    "NS4B": {
+      "end": 7650,
+      "start": 6897,
+      "strand": 1
+    },
+    "NS5": {
+      "end": 10359,
+      "start": 7650,
+      "strand": 1
+    },
+    "PR": {
+      "end": 735,
+      "start": 456,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 10769,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {
+    "Azevedo et al": {
+      "journal": "Unpublished",
+      "n": 4,
+      "title": "Genome sequences of four Zika virus isolates from Brazil"
+    },
+    "Barrows et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Repurposed drug candidates to treat ZIKV infection in pregnancy"
+    },
+    "Barzon et al": {
+      "journal": "Euro Surveill. 21 (32) (2016)",
+      "n": 2,
+      "title": "Infection dynamics in a traveller with persistent shedding of Zika virus RNA in semen for six months after returning from Haiti to Italy, January 2016"
+    },
+    "Bittar et al": {
+      "journal": "Unpublished",
+      "n": 3,
+      "title": "Sequencing of the complete genome of Zika virus from Brazil"
+    },
+    "Black et al": {
+      "journal": "?",
+      "n": 37,
+      "title": "Genetic characterization of the Zika virus epidemic in the US Virgin Islands"
+    },
+    "Blohm et al": {
+      "journal": "Genome Announc 5 (17), e00231-17 (2017)",
+      "n": 2,
+      "title": "Complete Genome Sequences of Identical Zika virus Isolates in a Nursing Mother and Her Infant"
+    },
+    "Bonaldo et al": {
+      "journal": "PLoS Negl Trop Dis 10 (6), E0004816 (2016)",
+      "n": 3,
+      "title": "Isolation of Infective Zika Virus from Urine and Saliva of Patients in Brazil"
+    },
+    "Boukadida et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Complete Zika Virus Genome Sequences from a Serum Sample and after Isolation in Vero Cells"
+    },
+    "Bronzoni et al": {
+      "journal": "Unpublished",
+      "n": 3,
+      "title": "Molecular characterization of arbovirus from the Amazon Basin, Brazil"
+    },
+    "CDC-Yale Gen Epi team": {
+      "journal": "Unpublished",
+      "n": 88,
+      "title": "Phylogenetics and Phylodynamics of Zika virus in Puerto Rico"
+    },
+    "Calvet et al": {
+      "journal": "Lancet Infect Dis 16 (6), 653-660 (2016)",
+      "n": 1,
+      "title": "Detection and sequencing of Zika virus from amniotic fluid of fetuses with microcephaly in Brazil: a case study"
+    },
+    "Carletti et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Isolation of infectious Zika virus from sera in a traveller returning from Brazil to Italy"
+    },
+    "Chiu et al": {
+      "journal": "Unpublished",
+      "n": 4,
+      "title": "Acute Zika virus infection in an asymptomatic blood donor at the onset of the Puerto Rico epidemic"
+    },
+    "Cunha et al": {
+      "journal": "Genome Announc 4 (2) (2016)",
+      "n": 1,
+      "title": "First Complete Genome Sequence of Zika Virus (Flaviviridae, Flavivirus) from an Autochthonous Transmission in Brazil"
+    },
+    "Delatorre et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Insights on the Zika virus genome single nucleotide polymorphisms related neurological disease"
+    },
+    "Deng et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Complete genome of Zika virus GZ01 isolate from China"
+    },
+    "Diaz-Quinonez et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Molecular characterization of Zika virus in Mexico"
+    },
+    "Donald et al": {
+      "journal": "PLoS Negl Trop Dis 10 (10), E0005048 (2016)",
+      "n": 1,
+      "title": "Full Genome Sequence and sfRNA Interferon Antagonist Activity of Zika Virus from Recife, Brazil"
+    },
+    "Driggers et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Zika virus infection with prolonged maternal viremia and fetal brain abnormalities"
+    },
+    "Enfissi et al": {
+      "journal": "Lancet 387 (10015), 227-228 (2016)",
+      "n": 2,
+      "title": "Zika virus genome from the Americas"
+    },
+    "Faria et al": {
+      "journal": "Nature 546 (7658), 406-410 (2017)",
+      "n": 47,
+      "title": "Establishment and cryptic transmission of Zika virus in Brazil and the Americas"
+    },
+    "Giovanetti et al": {
+      "journal": "Infect. Genet. Evol. 41, 142-145 (2016)",
+      "n": 1,
+      "title": "Zika virus complete genome from Salvador, Bahia, Brazil"
+    },
+    "Green et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Zika viral sequence identified in Fortaleza, Brazil"
+    },
+    "Grubaugh et al": {
+      "journal": "Nature (2017) In press",
+      "n": 46,
+      "title": "Genomic epidemiology reveals multiple introductions of Zika virus into the United States"
+    },
+    "Iovine et al": {
+      "journal": "Clin. Infect. Dis. 64 (1), 72-75 (2017)",
+      "n": 1,
+      "title": "Coinfection With Zika and Dengue-2 Viruses in a Traveler Returning From Haiti, 2016: Clinical Presentation and Genetic Analysis"
+    },
+    "Izquierdo-Suzan et al": {
+      "journal": "Emerging Infect. Dis. 25 (8), 1477-1484 (2019)",
+      "n": 1,
+      "title": "Natural Vertical Transmission of Zika Virus in Larval Aedes aegypti Populations, Morelos, Mexico"
+    },
+    "Karan et al": {
+      "journal": "Unpublished",
+      "n": 8,
+      "title": "Imported cases of Zika virus disease in Russia in 2016-2017"
+    },
+    "Kneubehl et al": {
+      "journal": "Submitted (26-APR-2017) Molecular Virology and Microbiology, Baylor College of Medicine, One Baylor Plaza, Houston, TX 77030, USA",
+      "n": 1,
+      "title": "Direct Submission"
+    },
+    "Ladner et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Zika virus genomes from human cases in Florida, USA"
+    },
+    "Laiton Donato et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Complete genome sequence Zika Virus strain without evidence of genetic variability after passage in Vero cells and brain inoculation BALB/c mice"
+    },
+    "Lamson et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Rapid Method for Sequencing Whole Genome Sequence of Zika Virus"
+    },
+    "Lanciotti et al": {
+      "journal": "Emerging Infect. Dis. 22 (5), 933-935 (2016)",
+      "n": 6,
+      "title": "Phylogeny of Zika Virus in Western Hemisphere, 2015"
+    },
+    "Lasala-Sanchez et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Zika virus polyprotein sequence isolated from a fetus-brain of Cuba pregnant traveler diagnosed in Spain (Madrid)"
+    },
+    "Lednicky et al": {
+      "journal": "PLoS Negl Trop Dis 10 (4), E0004687 (2016)",
+      "n": 2,
+      "title": "Zika Virus Outbreak in Haiti in 2014: Molecular and Clinical Data"
+    },
+    "Leguia et al": {
+      "journal": "Unpublished",
+      "n": 6,
+      "title": "Full-genome amplification and sequencing of Zika viruses using a targeted amplification approach"
+    },
+    "Li et al": {
+      "journal": "Unpublished",
+      "n": 2,
+      "title": "Identification of the First Imported Zika Case from Guatemala into Henan, Inland China: a case report"
+    },
+    "Marques et al": {
+      "journal": "Submitted (14-JUN-2017) Institute for Medical Engineering and Science, Massachusetts Institute of Technology, 77 Massachusetts Ave, Building 48-419, Cambridge, MA 02139, USA",
+      "n": 1,
+      "title": "Direct Submission"
+    },
+    "Marquez et al": {
+      "journal": "Genome Announc 5 (8), e01673-16 (2017)",
+      "n": 2,
+      "title": "First Complete Genome Sequences of Zika Virus Isolated from Febrile Patient Sera in Ecuador"
+    },
+    "Metsky et al": {
+      "journal": "Nature 546 (7658), 411-415 (2017)",
+      "n": 89,
+      "title": "Zika virus evolution and spread in the Americas"
+    },
+    "Miranda et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Brazilian Zika virus genome sequence"
+    },
+    "Mlakar et al": {
+      "journal": "N. Engl. J. Med. 374 (10), 951-958 (2016)",
+      "n": 1,
+      "title": "Zika Virus Associated with Microcephaly"
+    },
+    "Murray et al": {
+      "journal": "Emerging Infect. Dis. 23 (1), 99-101 (2017)",
+      "n": 1,
+      "title": "Prolonged Detection of Zika Virus in Vaginal Secretions and Whole Blood"
+    },
+    "Mutebi et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Zika Virus: Isolate from Mosquitoes, Miami Dade, 2016"
+    },
+    "Naccache et al": {
+      "journal": "Emerging Infect. Dis. 22 (10), 1788-1792 (2016)",
+      "n": 9,
+      "title": "Distinct Zika Virus Lineage in Salvador, Bahia, Brazil"
+    },
+    "Nunes et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Emergence of Zika virus in Brazil: Detection of Asian genotype"
+    },
+    "Oh et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Complete genome sequence of Zika virus isolated from imported cases in the Republic of Korea, 2016"
+    },
+    "Oliveira et al": {
+      "journal": "Viruses 10 (11), E615 (2018)",
+      "n": 23,
+      "title": "Persistence and Intra-Host Genetic Evolution of Zika Virus Infection in Symptomatic Adults: A Special View in the Male Reproductive System"
+    },
+    "Pettersson et al": {
+      "journal": "MBio 7 (5), e01239-16 (2016)",
+      "n": 2,
+      "title": "How Did Zika Virus Emerge in the Pacific Islands and Latin America?"
+    },
+    "Pickett et al": {
+      "journal": "Submitted (28-MAR-2019) J. Craig Venter Institute, 9704 Medical Center Drive, Rockville, MD 20850, USA",
+      "n": 1,
+      "title": "Direct Submission"
+    },
+    "Piorkowski et al": {
+      "journal": "New Microbes New Infect 11, 52-53 (2016)",
+      "n": 1,
+      "title": "Complete coding sequence of Zika virus from Martinique outbreak in 2015"
+    },
+    "Prilipov et al": {
+      "journal": "Submitted (13-AUG-2017) Molecular Genetics, Ivanovsky virilogy Institute, Gamalei Centre of Microbiology and Epidemiology, Gamalei str., 16, Moscow 123098, Russia",
+      "n": 1,
+      "title": "Direct Submission"
+    },
+    "Quick et al": {
+      "journal": "Nat Protoc 12 (6), 1261-1276 (2017)",
+      "n": 5,
+      "title": "Multiplex PCR method for MinION and Illumina sequencing of Zika and other virus genomes directly from clinical samples"
+    },
+    "Rios et al": {
+      "journal": "Unpublished",
+      "n": 4,
+      "title": "Database for Reference Grade Microbial Sequences (FDA-ARGOS)"
+    },
+    "Sermeno-Correa et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Characterization of Zika virus isolate from mosquitoes in Sucre, Colombia"
+    },
+    "Sevilla-Reyes et al": {
+      "journal": "Unpublished",
+      "n": 2,
+      "title": "Comparative analysis between the genomes of intra-host and cell cultured Zika virus obtained from a Mexican symptomatic patient"
+    },
+    "Shabman et al": {
+      "journal": "Submitted (29-APR-2016) J. Craig Venter Institute, 9704 Medical Center Drive, Rockville, MD 20850, USA",
+      "n": 16,
+      "title": "Direct Submission"
+    },
+    "Souza et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Complete Genome of a Zika Virus Isolate, Amazonas, Brazil, 2016"
+    },
+    "Stalin Raj et al": {
+      "journal": "Submitted (18-MAR-2016) Department of Viroscience, Erasmus Medical Center, Dr Molewaterplein 50, Rotterdam 3015 GE, the Netherlands",
+      "n": 1,
+      "title": "Direct Submission"
+    },
+    "Strottmann et al": {
+      "journal": "Unpublished",
+      "n": 3,
+      "title": "Molecular characterization of three Brazilian isolates of zika virus reveals genomic plasticity"
+    },
+    "Swaminathan et al": {
+      "journal": "N. Engl. J. Med. 375 (19), 1907-1909 (2016)",
+      "n": 1,
+      "title": "Fatal Zika Virus Infection with Secondary Nonsexual Transmission"
+    },
+    "Tan et al": {
+      "journal": "Viruses 10 (1), E44 (2018)",
+      "n": 21,
+      "title": "Viral and Antibody Kinetics, and Mosquito Infectivity of an Imported Case of Zika Fever Due to Asian Genotype (American Strain) in Singapore"
+    },
+    "Teixeira et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Full coding sequence of the Zika Virus isolate HS-2015-BA-01"
+    },
+    "Terzian et al": {
+      "journal": "Sci Rep 8 (1), 16034 (2018)",
+      "n": 4,
+      "title": "Evidence of natural Zika virus infection in neotropical non-human primates in Brazil"
+    },
+    "Theze et al": {
+      "journal": "Unpublished",
+      "n": 53,
+      "title": "Genome sequences of Zika viruses isolated in Nicaragua"
+    },
+    "Tsetsarkin et al": {
+      "journal": "MBio 7 (4), e01114-16 (2016)",
+      "n": 1,
+      "title": "A Full-Length Infectious cDNA Clone of Zika Virus from the 2015 Epidemic in Brazil as a Genetic Platform for Studies of Virus-Host Interactions and Vaccine Development"
+    },
+    "Valdespino-Vazquez et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Extra-CNS spread of Zika virus in a congenitally-infected newborn"
+    },
+    "White et al": {
+      "journal": "Submitted (29-AUG-2017) Environmental and Global Health, University of Florida - Gainesville, 1225 Center Drive, Room 4155, Gainesville, FL 32610, USA",
+      "n": 2,
+      "title": "Direct Submission"
+    },
+    "Wise et al": {
+      "journal": "Submitted (31-AUG-2017) Research, Public Health England, PHE Porton Down, Manor Farm Road, Salisbury, Wiltshire SP4 0JG, United Kingdom",
+      "n": 1,
+      "title": "Direct Submission"
+    },
+    "Wu et al": {
+      "journal": "Unpublished",
+      "n": 2,
+      "title": "Large returning population of oversea Chinese of Guangdong province combined with tourists increase the risks of ZIKV transmission in Guangdong, China"
+    },
+    "van Boheemen et al": {
+      "journal": "Sci Rep 7 (1), 2368 (2017)",
+      "n": 1,
+      "title": "Quasispecies composition and evolution of a typical Zika virus clinical isolate from Suriname"
+    }
+  },
+  "color_options": {
+    "country": {
+      "color_map": [
+        [
+          "french_polynesia",
+          "#7d7d7d"
+        ],
+        [
+          "brazil",
+          "#5C7F7F"
+        ],
+        [
+          "peru",
+          "#698C8C"
+        ],
+        [
+          "ecuador",
+          "#769999"
+        ],
+        [
+          "suriname",
+          "#83A6A6"
+        ],
+        [
+          "colombia",
+          "#8FB2B2"
+        ],
+        [
+          "venezuela",
+          "#9CBFBF"
+        ],
+        [
+          "french_guiana",
+          "#A9CCCC"
+        ],
+        [
+          "panama",
+          "#E1CFF3"
+        ],
+        [
+          "nicaragua",
+          "#C7B5D9"
+        ],
+        [
+          "honduras",
+          "#AE9CC0"
+        ],
+        [
+          "el_salvador",
+          "#9482A6"
+        ],
+        [
+          "guatemala",
+          "#88769A"
+        ],
+        [
+          "mexico",
+          "#7B698D"
+        ],
+        [
+          "haiti",
+          "#F3CFCF"
+        ],
+        [
+          "dominican_republic",
+          "#E6C2C2"
+        ],
+        [
+          "jamaica",
+          "#D9B5B5"
+        ],
+        [
+          "martinique",
+          "#CDA9A9"
+        ],
+        [
+          "saint_barthelemy",
+          "#C09C9C"
+        ],
+        [
+          "cuba",
+          "#B38F8F"
+        ],
+        [
+          "usvi",
+          "#8D6969"
+        ],
+        [
+          "usa",
+          "#0374a0"
+        ],
+        [
+          "puerto_rico",
+          "#ce0909"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "Country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "region-in-PR": {
+      "color_map": [
+        [
+          "saint_croix",
+          "#6F6F6F"
+        ],
+        [
+          "saint_thomas",
+          "#6F6F6F"
+        ],
+        [
+          "2",
+          "#CE0808"
+        ],
+        [
+          "1",
+          "#C12352"
+        ],
+        [
+          "8",
+          "#BA2F6D"
+        ],
+        [
+          "3",
+          "#B43A83"
+        ],
+        [
+          "4",
+          "#A74D9E"
+        ],
+        [
+          "7",
+          "#8D5D9A"
+        ],
+        [
+          "6",
+          "#826393"
+        ],
+        [
+          "5",
+          "#7A698D"
+        ],
+        [
+          "french_polynesia",
+          "#BBBBBB"
+        ],
+        [
+          "brazil",
+          "#BBBBBB"
+        ],
+        [
+          "peru",
+          "#BBBBBB"
+        ],
+        [
+          "ecuador",
+          "#BBBBBB"
+        ],
+        [
+          "suriname",
+          "#BBBBBB"
+        ],
+        [
+          "colombia",
+          "#BBBBBB"
+        ],
+        [
+          "venezuela",
+          "#BBBBBB"
+        ],
+        [
+          "french_guiana",
+          "#BBBBBB"
+        ],
+        [
+          "panama",
+          "#BBBBBB"
+        ],
+        [
+          "nicaragua",
+          "#BBBBBB"
+        ],
+        [
+          "honduras",
+          "#BBBBBB"
+        ],
+        [
+          "el_salvador",
+          "#BBBBBB"
+        ],
+        [
+          "guatemala",
+          "#BBBBBB"
+        ],
+        [
+          "mexico",
+          "#BBBBBB"
+        ],
+        [
+          "haiti",
+          "#BBBBBB"
+        ],
+        [
+          "dominican_republic",
+          "#BBBBBB"
+        ],
+        [
+          "jamaica",
+          "#BBBBBB"
+        ],
+        [
+          "martinique",
+          "#BBBBBB"
+        ],
+        [
+          "saint_barthelemy",
+          "#BBBBBB"
+        ],
+        [
+          "cuba",
+          "#BBBBBB"
+        ],
+        [
+          "usa",
+          "#BBBBBB"
+        ]
+      ],
+      "key": "region-in-PR",
+      "legendTitle": "Region within Puerto Rico",
+      "menuItem": "within-PR",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "colorBy": "country",
+    "geoResolution": "country",
+    "mapTriplicate": false
+  },
+  "filters": [
+    "country",
+    "region-in-PR",
+    "authors"
+  ],
+  "geo": {
+    "country": {
+      "brazil": {
+        "latitude": -10.3333332,
+        "longitude": -53.1999999
+      },
+      "colombia": {
+        "latitude": 2.893108,
+        "longitude": -73.7845142
+      },
+      "cuba": {
+        "latitude": 22.0,
+        "longitude": -79.5
+      },
+      "dominican_republic": {
+        "latitude": 18.50012,
+        "longitude": -69.98857
+      },
+      "ecuador": {
+        "latitude": -1.3397667,
+        "longitude": -79.3666964
+      },
+      "el_salvador": {
+        "latitude": 13.68935,
+        "longitude": -89.18718
+      },
+      "french_guiana": {
+        "latitude": 4.93333,
+        "longitude": -52.33333
+      },
+      "french_polynesia": {
+        "latitude": -17.6797,
+        "longitude": -149.4068
+      },
+      "guatemala": {
+        "latitude": 15.6356088,
+        "longitude": -89.8988086
+      },
+      "haiti": {
+        "latitude": 19.1399952,
+        "longitude": -72.3570971
+      },
+      "honduras": {
+        "latitude": 15.0610686,
+        "longitude": -84.5978533
+      },
+      "jamaica": {
+        "latitude": 18.16667,
+        "longitude": -77.25
+      },
+      "martinique": {
+        "latitude": 14.6415,
+        "longitude": -61.0242
+      },
+      "mexico": {
+        "latitude": 19.4325301,
+        "longitude": -99.1332101
+      },
+      "nicaragua": {
+        "latitude": 13.0,
+        "longitude": -85.0
+      },
+      "panama": {
+        "latitude": 8.3096067,
+        "longitude": -81.3066245
+      },
+      "peru": {
+        "latitude": -10.0,
+        "longitude": -75.25
+      },
+      "puerto_rico": {
+        "latitude": 18.2459121,
+        "longitude": -66.4164147
+      },
+      "saint_barthelemy": {
+        "latitude": 17.9049171,
+        "longitude": -62.847207
+      },
+      "suriname": {
+        "latitude": 4.1413025,
+        "longitude": -56.0771186
+      },
+      "usa": {
+        "latitude": 25.796061,
+        "longitude": -80.2859
+      },
+      "usvi": {
+        "latitude": 18.3378801,
+        "longitude": -64.8982827
+      },
+      "venezuela": {
+        "latitude": 8.0,
+        "longitude": -66.0
+      }
+    },
+    "region-in-PR": {
+      "1": {
+        "latitude": 18.417276,
+        "longitude": -66.062786
+      },
+      "2": {
+        "latitude": 18.296277,
+        "longitude": -65.681852
+      },
+      "3": {
+        "latitude": 18.041631,
+        "longitude": -66.089852
+      },
+      "4": {
+        "latitude": 18.016545,
+        "longitude": -66.649073
+      },
+      "5": {
+        "latitude": 18.23336,
+        "longitude": -67.113032
+      },
+      "6": {
+        "latitude": 18.456029,
+        "longitude": -66.684108
+      },
+      "7": {
+        "latitude": 18.276068,
+        "longitude": -66.62612
+      },
+      "8": {
+        "latitude": 18.204899,
+        "longitude": -66.146842
+      },
+      "brazil": {
+        "latitude": -10.3333332,
+        "longitude": -53.1999999
+      },
+      "colombia": {
+        "latitude": 2.893108,
+        "longitude": -73.7845142
+      },
+      "cuba": {
+        "latitude": 22.0,
+        "longitude": -79.5
+      },
+      "dominican_republic": {
+        "latitude": 18.50012,
+        "longitude": -69.98857
+      },
+      "ecuador": {
+        "latitude": -1.3397667,
+        "longitude": -79.3666964
+      },
+      "el_salvador": {
+        "latitude": 13.68935,
+        "longitude": -89.18718
+      },
+      "french_guiana": {
+        "latitude": 4.93333,
+        "longitude": -52.33333
+      },
+      "french_polynesia": {
+        "latitude": -17.6797,
+        "longitude": -149.4068
+      },
+      "guatemala": {
+        "latitude": 15.6356088,
+        "longitude": -89.8988086
+      },
+      "haiti": {
+        "latitude": 19.1399952,
+        "longitude": -72.3570971
+      },
+      "honduras": {
+        "latitude": 15.0610686,
+        "longitude": -84.5978533
+      },
+      "jamaica": {
+        "latitude": 18.16667,
+        "longitude": -77.25
+      },
+      "martinique": {
+        "latitude": 14.6415,
+        "longitude": -61.0242
+      },
+      "mexico": {
+        "latitude": 19.4325301,
+        "longitude": -99.1332101
+      },
+      "nicaragua": {
+        "latitude": 13.0,
+        "longitude": -85.0
+      },
+      "panama": {
+        "latitude": 8.3096067,
+        "longitude": -81.3066245
+      },
+      "peru": {
+        "latitude": -10.0,
+        "longitude": -75.25
+      },
+      "saint_barthelemy": {
+        "latitude": 17.9049171,
+        "longitude": -62.847207
+      },
+      "saint_croix": {
+        "latitude": 17.721476,
+        "longitude": -64.836883
+      },
+      "saint_john": {
+        "latitude": 18.336585,
+        "longitude": -64.728638
+      },
+      "saint_thomas": {
+        "latitude": 18.340531,
+        "longitude": -64.899941
+      },
+      "suriname": {
+        "latitude": 4.1413025,
+        "longitude": -56.0771186
+      },
+      "usa": {
+        "latitude": 25.796061,
+        "longitude": -80.2859
+      },
+      "venezuela": {
+        "latitude": 8.0,
+        "longitude": -66.0
+      }
+    }
+  },
+  "maintainer": [
+    "Chaney Kalinich",
+    "github.com/grubaughlab/ZIKV-PR/tree/master/config"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Zika virus emergence in Puerto Rico",
+  "updated": "07 Jan 2020",
+  "virus_count": 458
+}
