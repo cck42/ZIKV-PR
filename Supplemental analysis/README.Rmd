@@ -1,0 +1,20 @@
+---
+title: "Phylogeographic insights to Zika virus spread in Puerto Rico: Supplemental Analysis"
+author: "Chaney Kalinich"
+date: "5/6/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Files
+
+- arboNET_analysis.R: Code for reworking case counts in Puerto Rico into incidence for the commuter analysis, and for creating graphs of incidence 
+- commuter_data_working: Code used for using OD flows, incidence, and geographic transitions to generate a linear model of directional transitions by month as a function of incidence by month and directional flow (average over a 5-year period)
+- CDC-PR-ZIKV-consensus-generation.bash: code used  to generate consensus genomes from MiSeq FASTQ output
+- census_pop_estimates.csv: data downloaded from the U.S. census bureau to calculate incidence (used ArboNet case data)
+- fips_tidy.xlsx: A list of fips codes and zip codes with the region they were included in for the phylogeographic analysis
+- Map_PR_8regions.png: A map of the regions used for phylogeographic analysis
+
