@@ -1,10 +1,10 @@
-# Reconstucting the 2016 Zika outbreak in Puerto Rico
+# Phylogeographic insights into Zika virus in Puerto Rico
 
 This is a collaboration between the CDC Dengue Branch and the Yale School of Public Health. Our data can be visualized on our [Nextstrain community build](https://nextstrain.org/community/grubaughlab/ZIKV-PR).
 
 ## Samples
 
-[Add info]
+Samples were selected from those which tested positive at the CDC Dengue Branch for Zika virus in 2016 and 2017. Sample selection was based on a division of the island into eight regions with the goal of equal representation from each of the regions (Figure 1A). We successfully generated 86 sequences with >80% coverage of the coding sequence from 41 (of 76) mainland municipalities (excluding the small island municipalities of Vieques and Culebra). These represented all eight of the regions used in this analysis.
 
 ## Methods
 
